@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "tribute-page",
+			"path": "../../Microverse/tribute-page"
+		},
+		{
+			"name": "babel",
+			"path": "../babel"
+		},
+		{
+			"name": "js",
+			"path": "../js"
+		},
+		{
+			"name": "css",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
